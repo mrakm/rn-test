@@ -2,8 +2,7 @@
 
 ## Demo
 
-<img src="demo/ezgif-3-ecb58fe7b3.gif" alt="Demo GIF" style="max-height: 400px">
-
+![Demo GIF](demo/gif.gif)
 [Watch the video](demo/video.mp4)
 
 ## Overview
