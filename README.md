@@ -1,4 +1,8 @@
 # React Native Animated Deck Menu Implementation
+<video src="demo/video.mp4" controls="controls" style="max-width: 100%;">
+    Your browser does not support the video tag.
+</video>
+
 
 ## Overview
 This project implements an animated deck-style menu for a React Native application using Expo. The implementation features a smooth animation where the main content rotates and scales while a dark-themed menu slides in from the left.
