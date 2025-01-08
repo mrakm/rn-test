@@ -2,6 +2,7 @@
 
 ## Demo
 
+![Demo GIF](demo/ezgif-3-ecb58fe7b3.gif)
 [Watch the video](demo/video.mp4)
 
 ## Overview
